@@ -1,0 +1,26 @@
+[
+  {
+    "provider": "bls",
+    "filename": "bls_series_catalogue_v2.sqlite",
+    "bytes": 355565568,
+    "sha256": "5941d28dde081628c9f8a4c0658c1d033c484696987d7e8bd9261a2dd070571c",
+    "tag": "bls-catalogue-v2-full-2026-08-18",
+    "source_content": "byte-identical to the existing verified catalogue"
+  },
+  {
+    "provider": "imf_weo",
+    "filename": "imf_weo_series_v1_2026-08-16.csv",
+    "bytes": 60562201,
+    "sha256": "7215a9dee3d052a50a1ca561d915fa0246e6414b2bdd562528f54c8bc86fe343",
+    "tag": "imf-weo-series-v1-2026-08-16",
+    "source_content": "byte-identical to the existing verified catalogue"
+  },
+  {
+    "provider": "ilostat",
+    "filename": "ilostat_series_v1_2026-08-18-repack1.zip",
+    "bytes": 99674183,
+    "sha256": "925f304ce337e7eb5d7a89371eb1f8a65463d0e9aa4746ac58dc4ad66e85b49e",
+    "tag": "ilostat-series-v1-2026-08-18-repack1",
+    "source_content": "New deterministic ZIP container; all 553 original FST shard bytes and catalogue manifest/receipt are unchanged."
+  }
+]
